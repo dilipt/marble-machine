@@ -1,0 +1,23 @@
+{
+  "name": "marble-machine",
+  "version": "1.0.0",
+  "description": "The Incredible Machine meets my childhood imagination.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilipt/marble-machine.git"
+  },
+  "keywords": [
+    "sandbox",
+    "game"
+  ],
+  "author": "Dilip Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilipt/marble-machine/issues"
+  },
+  "homepage": "https://github.com/dilipt/marble-machine#readme"
+}
